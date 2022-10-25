@@ -7,4 +7,4 @@ Pablo Eduardo Moreira dos Santos
 ## Links
 [node](https://nodejs.org/en/)
 
-[Vscode](https://code.visualstudio.com/)
+[vscode](https://code.visualstudio.com/)
