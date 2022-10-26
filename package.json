@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Tutorial de lógica de programação com a plataforma node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloedduarddo/Node.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "git",
+    "github"
+  ],
+  "author": "Pablo Eduardo Moreira dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabloedduarddo/Node/issues"
+  },
+  "homepage": "https://github.com/pabloedduarddo/Node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
