@@ -8,3 +8,5 @@ Pablo Eduardo Moreira dos Santos
 [node](https://nodejs.org/en/)
 
 [vscode](https://code.visualstudio.com/)
+
+[npm repository](https://www.npmjs.com/package/repository)
