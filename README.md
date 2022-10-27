@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/pabloedduarddo/Node)
-# Tutorial Node
-Tutorial de lógica de programação com a plataforma node
+# Tutorial NodeJS
+Tutorial de lógica de programação usando JavaScript e a com a plataforma node
 
 ## Autor
 Pablo Eduardo Moreira dos Santos
